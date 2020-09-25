@@ -142,6 +142,10 @@ a:focus, a:hover {
   background: #2e7eed;
 }
 
+.bg-green {
+  background: #b4c250;
+}
+
 .bg-1 {
   background: url(../images/background/promo-video-back.jpg) fixed no-repeat;
   background-size: cover;
